@@ -1,13 +1,19 @@
 # Assignment_ElkDoks
 
-Introduction<Br>
-The Food Ordering App is a mobile application developed for Android devices 
-that allows users to browse various fruit items, place orders, and track delivery status,
-The app is designed to provide a seamless and intuitive user experience for food ordering.
+## Introduction<Br>
+A simple application that displays the beautiful clock animation<Br>
+and showing the exact time.
 
 #Features
 - Shown Exact Time
 - Beautiful Wave motion around the clock
+## Video Link-
+https://github.com/user-attachments/assets/a32ae49f-4563-4ce4-ac18-435597091d95<Br>
+
+## Screenshots
+
+![ss1](https://github.com/user-attachments/assets/23a92842-e650-4c37-9efc-e84e43b9d99a)<Br>
+![ss2](https://github.com/user-attachments/assets/bf2612f7-67e8-4a7e-b60b-a553c2fdc9b9)<Br>
 
 #Installation
 Follow these steps to get a local copy of the project up and running:
@@ -15,9 +21,10 @@ Follow these steps to get a local copy of the project up and running:
 Prerequisites
 - Android Studio installed on your machine
 - Java Development Kit (JDK)<Br>
+
 Clone the Repository<Br>
 git clone https://github.com/nazimchouhan/Assignment_ElkDoks.git<Br>
-cd FoodOrdering
+cd Assignment_ElkDoks
 
 ## BUILD And RUN
 1) Open in Android Studio
